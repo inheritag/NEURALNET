@@ -1,5 +1,5 @@
 # NEURALNET
 By Idajili David
-A neural networks library using c++.
+ <br> A neural networks library using c++. </br>
 
 
